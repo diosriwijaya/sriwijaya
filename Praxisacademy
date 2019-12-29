@@ -1,5 +1,5 @@
 
-1.software atau dalam bahasa indonesia perangkat lunak adalah suatu program yang berisi code code di dalamnya yang di dibuat oleh para programmer dan development untuk  menjalankan perangkat keras komputer. Perangkat Lunak juga berisi kumpulan instruksi logika yang berfungsi sebagai  untuk melakukan proses pengolahan data. software juga sebagai jembatan atau penghubung komputer dengan manusia , berfungsi menerjemahkan bahasa manusia ke dalam bahasa mesin sehingga perangkat keras komputer memahami keinginan user dan menjalankan perintah yang diberikan dan agar memberikan hasil yang diinginkan oleh si penguna tersebut.
+1.software atau dalam bahasa indonesia perangkat lunak adalah suatu program yang berisi code code di dalamnya yang di dibuat oleh para programmer dan development untuk  menjalankan perangkat keras komputer. Perangkat Lunak juga berisi kumpulan instruksi logika yang berfungsi sebagai  untuk melakukan proses pengolahan data. software juga sebagai jembatan atau penghubung komputer dengan manusia , berfungsi menerjemahkan bahasa manusia ke dalam bahasa mesin sehingga perangkat keras komputer memahami keinginan user dan menjalankan perintah yang diberikan dan agar memberikan hasil yang diinginkan oleh si penguna tersebut.
 Perangkat lunak komputer juga berfungsi untuk mengkontrol,Mengatur,memenejemen dan membuat pekerjaan atau proses yang lebih efisien
 
 2.Ekosistem os dibangun dengan maksud memaksa secara halus pelanggan untuk loyal pada produk mereka, tujuan lain adalah sebagai antisipasi jika salah satu produk mengalami penurunan jumlah pelanggan maka akan tertutupi oleh produk yang lain.
@@ -13,7 +13,7 @@ Pada kenyataannya tidak semua sistem operasi mempunyai struktur yang sama. Namun
 Managemen Proses.
 Managemen Memori Utama.
 Managemen Secondary-Storage.
-Managemen Sistem I/O.
+Managemen Sstem I/O.
 Managemen Berkas.
 Sistem Proteksi.
 Jaringan.
@@ -29,7 +29,7 @@ GUI adalah jenis antarmuka manusia-komputer yang menggunakan windows, ikon (
 Sistem X Window , sering disebut hanya sebagai X , adalah sistem windowing yang lengkap, lintas platform dan gratis untuk mengelola GUI pada komputer tunggal dan pada jaringan komputer. Ini adalah salah satu paket perangkat lunak yang paling kuat dan berguna untuk Linux dan sistem operasi mirip Unix lainnya, dan itu adalah sistem windowing standar de facto untuk sistem operasi tersebut. Sistem windowing lain telah dikembangkan untuk sistem operasi mirip Unix, seperti Y Window System , tetapi umumnya tidak banyak digunakan.
 C.Contoh consol/comand pada linux
 -Saat saya menuliskan contoh perintah linux akan selalu diawali dengan tanda pagar # dan dolar $ ,artinya apa?
--Tanda pagar # pada terminal linux memnandakan kamu sedang menggunakan user root sedangkan tanda dolar $ menandakan user yang sedang kamu gunakan merupakan user biasa/bukan user root.
+-Tanda paga # pada terminal linux memnandakan kamu sedang menggunakan user root sedangkan tanda dolar $ menandakan user yang sedang kamu gunakan merupakan user biasa/bukan user root.
 -Saat saya menuliskan perintah pada tutorial tanda pagar # artinya perintah harus dijalankan menggunakan user root,jika kamu ingin menjalankan dari user biasa ($) maka tambahkan sudo. Contoh :perintah $ sudo apt-get update sama artinya dengan # apt-get update
 -Sedagkan tanda dolar $ artinya perintah dijalankan dengan user biasa(bukan root), contoh $ ls -la
 sudo artinya kmau menjalankan perintah dari user biasa namun menggunakan privilage root
